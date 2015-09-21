@@ -6,7 +6,8 @@
   "author": "Boyma Fahnbulleh <boymanjor@icloud.com>",
   "license": "ISC",
   "devDependencies": {
-    "hjs-webpack": "^2.13.1"
+    "hjs-webpack": "^2.13.1",
+    "nw": "^0.12.3"
   },
   "repository": {
     "type": "git",
