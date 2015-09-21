@@ -1,19 +1,18 @@
 {
   "name": "nwjs-git-branch-delete",
-  "version": "1.0.0",
   "description": "GUI for deleting git branches",
+  "version": "1.0.0",
   "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Boyma Fahnbulleh <boymanjor@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "hjs-webpack": "^2.13.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boymanjor/nwjs-git-branch-delete.git"
+    "url": "https://github.com/boymanjor/nwjs-git-branch-delete.git"
   },
-  "author": "Boyma Fahnbulleh <boymanjor@icloud.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/boymanjor/nwjs-git-branch-delete/issues"
-  },
-  "homepage": "https://github.com/boymanjor/nwjs-git-branch-delete#readme"
+  "scripts": {
+    "test": "standard"
+  }
 }
