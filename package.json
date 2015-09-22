@@ -6,6 +6,7 @@
   "author": "Boyma Fahnbulleh <boymanjor@icloud.com>",
   "license": "ISC",
   "devDependencies": {
+    "ampersand-app": "^1.0.4",
     "ejs-loader": "^0.2.1",
     "hjs-webpack": "^2.13.1",
     "nw": "^0.12.3",
