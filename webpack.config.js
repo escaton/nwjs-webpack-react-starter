@@ -7,7 +7,7 @@ var config = getConfig({
 	clearBeforeBuild: false,
 	html: function(data) {
 		return {
-			'index.html': data.defaultTemplate({html: '<h1>NW.js is the best.</h1>'})
+			'index.html': data.defaultTemplate({html: ''})
 		}
 	}
 })
