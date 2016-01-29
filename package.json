@@ -20,6 +20,7 @@
   "scripts": {
     "start": "nw ./public/",
     "watch": "webpack-dev-server",
+    "build": "webpack --output-path build --optimize-dedupe",
     "test": "standard"
   }
 }
