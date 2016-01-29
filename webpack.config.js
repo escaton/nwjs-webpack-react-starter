@@ -12,8 +12,7 @@ var config = getConfig({
 	}
 })
 
-// target property not working for node-webkit
-// config.target = 'node-webkit'
+config.target = 'node-webkit'
 
 // Adds new plugin to generated config which exposes underscore.js globally
 config.plugins.push(
