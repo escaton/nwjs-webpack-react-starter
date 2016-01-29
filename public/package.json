@@ -1,6 +1,7 @@
 {
 	"name": "Git Branch Deleter",
 	"main": "http://localhost:3000",
+    	"node-remote": "localhost",
 	"webkit": {
 		"plugin": true
 	}
